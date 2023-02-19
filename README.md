@@ -2,7 +2,7 @@
 <p>I use it to randomly generate captains for my volunteering job as soccer coach. Picks the amount of captains, randomly, based on the number input</p>
 <p><small>This is a React (and better) version of my captain picker in <a href="https://github.com/renanmbs/random_captain">Javascript</a>.
 
-<a href="https://renanmbs.github.io/random_captain/">Random Captain Picker React</a>
+<a href="https://bucolic-caramel-1531e7.netlify.app/">Random Captain Picker React</a>
 
 
 # Getting Started with Create React App

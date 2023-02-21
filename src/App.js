@@ -57,7 +57,7 @@ function App() {
   return (
     <div id='banner'>
       <div id='box'>
-        <h1>Generate Random Captains</h1>
+        <h1>Generate Random <wbr/> Captains</h1>
         <label>Enter the Number of Captains</label><br/>
         <form>
           <input name='number' type="number" placeholder={"Number"} onChange={handleNumber}/><br/>

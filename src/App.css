@@ -92,10 +92,15 @@ form{
 
 @media only screen and (max-width:660px){
   #banner{
-    height: 65rem;
+    height: 60rem;
   }
 
   #box h1{
-    font-size: 1.3rem;
+    font-size: 1.8rem;
   }
+
+
+#results p{
+  font-size: 1.7rem;
+}
 }

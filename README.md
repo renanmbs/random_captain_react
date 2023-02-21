@@ -1,3 +1,10 @@
+<h1>Random Captain Picker (React)</h1>
+<p>I use it to randomly generate captains for my volunteering job as soccer coach. Picks the amount of captains, randomly, based on the number input. It also has an algorithm I created to make sure I am not repeating captains</p>
+<p><small>This is a React (and better) version of my captain picker in <a href="https://github.com/renanmbs/random_captain">Javascript</a></small></p>
+
+<a href="https://bucolic-caramel-1531e7.netlify.app/">Random Captain Picker React</a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# random_captain_react
+

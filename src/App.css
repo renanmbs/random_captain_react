@@ -92,10 +92,10 @@ form{
 
 @media only screen and (max-width:660px){
   #banner{
-    min-height: 160vw;
+    min-height: 180vw;
   }
 
   #box h1{
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 }

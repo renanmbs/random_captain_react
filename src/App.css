@@ -89,3 +89,13 @@ form{
   font-weight: bold;
   text-shadow: 3px 2px 1px black;
 }
+
+@media only screen and (max-width:660px){
+  #banner{
+    min-height: 160vw;
+  }
+
+  #box h1{
+    font-size: 2.5rem;
+  }
+}

@@ -1,8 +1,10 @@
 import React, { useEffect } from 'react';
 import { useState } from 'react';
 import './App.css';
-let players = ["Alex","Asher","Aziz","Belal", "Ben", "Boston", "Brandon", "Cache", "Cooper", "Corbin","Christian","Danny","Easton","Eman",
-"Ethan","Gabe","Gustavo", "Humberto", "Hunter", "Julio", "Kolton", "Michael", "Ricky", "Kolton", "Riley", "Thaddeus", "Tyler", "Wilo"];
+let players = ["Gustavo", "Bagley","Gabe", "Aziz", "Belal", "Danny", "Cooper","Kolton","Christian", "Ethan Barnette","Damian",
+"Cache", "Alex Gil", "Julio", "Wilo", "Riley", "Easton", "Boston", "Asher", "Michael Fuentes", "Abyiath","Pearce", "Humberto", "Hunter Spencer", 
+"Ben Gladwell","Luis Guzman", "Thomas Farr", "Adam Ferre"];
+
 
 function App() {
   const [captains, setCaptains] = useState([]);
